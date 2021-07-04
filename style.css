@@ -11,13 +11,22 @@ color: #49C4B2;
 section{
     display:flex;
 }
+.line-height{
+    line-height:30px;
+}
+
+h3{
+    line-height:40px;
+}
+
+
 .half-width{
 
 width: 50%;
 padding-left:10%;
 }
 .half-width img{
-    width:80%;
+    width: 78%;
 }
 .contact-button{
     text-decoration: none;
@@ -26,4 +35,5 @@ padding-left:10%;
     font-weight: 500;
     padding: 10px 35px;
     border-radius: 5px; 
+    line-height: 90px;
 }
