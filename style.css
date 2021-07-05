@@ -2,6 +2,26 @@ body{
 
     font-family:'Poppins', sans-serif ;
 }
+.half-width0{
+    margin-top:25px;
+    margin-bottom: 0;
+    width: 65%;
+    padding-left:9.5%;
+    padding-right:8%;
+}
+.half-width0 img{
+    width:35%;
+    
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(#49C4B2,#3fb8a6);
+    color: white;
+    font-weight: 500;
+    padding: 5px 15px;
+    border-radius: 5px; 
+
+}
 h1{
     font-size: 50px;
 }
@@ -11,8 +31,7 @@ color: #49C4B2;
 section{
     display:flex;
 }
-.hi-margin{
-    margin-top: 30px;
+.hi-margin
     margin-bottom: 0px;
 }
 .i-margin{
@@ -107,7 +126,7 @@ padding-left:10%;
       progress::-webkit-progress-value {
         background: #49C4B2;
       }
-      .services{
+      .service{
         text-align: center;
         padding-left:44%;
         line-height: 45px;
@@ -145,7 +164,7 @@ padding-left:10%;
         border-color:indigo;
         border-image-slice: 1;
     }
-    .project{
+    .project1{
         text-align: center;
         padding-left: 42%;
         margin-top: 0px;
