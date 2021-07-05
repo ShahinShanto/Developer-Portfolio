@@ -128,7 +128,7 @@ padding-left:10%;
         line-height: 50px;
         margin-left: 9%;
         margin-right:10%;
-        box-shadow:3px 3px 40px gray;
+        box-shadow:0px 0px 10px gray;
     }
     #logo{
         border-left: 7px solid;
@@ -145,3 +145,36 @@ padding-left:10%;
         border-color:indigo;
         border-image-slice: 1;
     }
+    .project{
+        text-align: center;
+        padding-left: 42%;
+        margin-top: 0px;
+        line-height: 45px;
+    }
+    .project2{
+        margin-bottom: 5px;
+    }
+    .project3{
+       margin-top: 0px;
+    }
+
+    .half-width5{
+        width: 50%;
+        padding-right:20px;
+        padding-left:20px;
+        line-height: 25px;
+        padding-bottom:20px;
+     }
+     #picture{
+     display: flex;
+     margin-left: 150px;
+
+     }
+     .picture{
+        height: 300px;
+        width: 300px;
+        margin-top: 20px;
+        margin-left: 0%;
+        margin-right:10%;
+        box-shadow:0px 0px 10px gray;
+     }
