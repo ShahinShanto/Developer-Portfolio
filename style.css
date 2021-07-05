@@ -178,3 +178,49 @@ padding-left:10%;
         margin-right:10%;
         box-shadow:0px 0px 10px gray;
      }
+     h1{
+        font-size: 50px;
+    }
+    .paste-color{
+    color: #49C4B2;
+    }
+    section{
+        display:flex;
+    }
+    .want{
+        margin-top: 30px;
+        color:white;
+        line-height: 70px;
+    }
+
+    .contact{
+        margin-top: 0px;
+        margin-bottom: 0px;
+        color:white;
+
+    }
+    .half-width6{
+    
+    width: 50%;
+    padding-left:10%;
+    }
+    .half-width6 img{
+        width:80%;
+        margin-top: 25px;
+    }
+    .contact-button2{
+        text-decoration: none;
+        background-color: white;
+        color: #49C4B2;
+        font-weight: 600;
+        padding: 10px 35px;
+        border-radius: 5px; 
+        line-height: 90px;
+    }
+    .wantm{
+        background-color: #49C4B2;
+        padding: 10px 35px;
+        border-radius: 5px;
+        margin-left: 9%;
+        margin-right: 6.5%;
+    }
