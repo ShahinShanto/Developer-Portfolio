@@ -46,8 +46,9 @@ padding-left:10%;
 }
 .introduction{
     text-align: center;
-    padding-left:45%;
+    padding-left:43%;
     margin-top: 0px;
+    line-height: 45px;
 }
 .introduction2{
     margin-bottom: 0px;
@@ -77,4 +78,43 @@ padding-left:10%;
     .half-width2 img{
         width: 100%;
         padding-bottom:50px;
+    }
+    .skill1{
+        text-align: center;
+        padding-left:45%;
+        line-height: 45px;
+    }
+    .skill2{
+        margin-bottom: 0px;
+    }
+    .skill3{
+       margin-top: 0px;
+    }
+    .half-width3{
+
+        width: 70%;
+        padding-right:20px;
+        padding-left:20px;
+        text-align: center;
+        line-height: 25px;
+        padding-bottom:20px;
+     }
+     progress {
+        width: 350px;
+        height: 20px;
+        background: #49C4B2;
+      }
+      progress::-webkit-progress-value {
+        background: #49C4B2;
+      }
+      .services{
+        text-align: center;
+        padding-left:45%;
+        line-height: 45px;
+    }
+    .services2{
+        margin-bottom: 0px;
+    }
+    .services3{
+       margin-top: 0px;
     }
