@@ -30,8 +30,11 @@ color: #49C4B2;
 }
 section{
     display:flex;
+    margin-top: 0px;
 }
 .hi-margin
+{
+    margin-top: 30px;
     margin-bottom: 0px;
 }
 .i-margin{
