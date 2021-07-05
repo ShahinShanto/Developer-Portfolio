@@ -11,15 +11,22 @@ color: #49C4B2;
 section{
     display:flex;
 }
-.line-height{
-    line-height:30px;
+.hi-margin{
+    margin-top: 30px;
+    margin-bottom: 0px;
 }
-
-h3{
-    line-height:40px;
+.i-margin{
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
+.graphic-margin{
+    margin-top: 0px;
+    margin-bottom: 0px;
 
-
+}
+.experience-margin{
+    margin-top: 30px;
+}
 .half-width{
 
 width: 50%;
@@ -40,7 +47,13 @@ padding-left:10%;
 .introduction{
     text-align: center;
     padding-left:45%;
-    line-height: 0%;
+    margin-top: 0px;
+}
+.introduction2{
+    margin-bottom: 0px;
+}
+.introduction3{
+   margin-top: 0px;
 }
 .download-button{
     text-decoration: none;
